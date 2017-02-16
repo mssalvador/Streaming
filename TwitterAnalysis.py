@@ -48,10 +48,6 @@ print(ipAddress)
 
 
 #Variables that contains the user credentials to access Twitter API 
-consumer_key = 'B8hcPElr1sX7QnC4FzuxQZ3mw'
-consumer_secret = '4CzdOFZrwOY4M6oMx3KxaBSuabpADq8o90PhRznBzlQCczJ3tU'
-access_token = '742610974516072448-4vKn9jwMpGN6wFla8ZBVeR2Fsv6Pmm8'
-access_token_secret = 'HwoAUGEN1xageZ0x9uPyFEpXHDRUsfFjw0sPyQTfKtJEl'
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
